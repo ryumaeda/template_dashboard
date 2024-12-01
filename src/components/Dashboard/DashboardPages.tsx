@@ -8,7 +8,7 @@ import MapOne from "../Maps/MapOne";
 import DataStatsOne from "@/components/DataStats/DataStatsOne";
 import ChartOne from "@/components/Charts/ChartOne";
 
-const ECommerce: React.FC = () => {
+const DashboardPages: React.FC = () => {
   return (
     <>
       <DataStatsOne />
@@ -27,4 +27,4 @@ const ECommerce: React.FC = () => {
   );
 };
 
-export default ECommerce;
+export default DashboardPages;
